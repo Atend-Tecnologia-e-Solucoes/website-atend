@@ -1,7 +1,6 @@
 "use client";
 
 import { FadeInUp, ScaleIn } from "../../../components/animations";
-import ContactForm from "../../../components/ContactForm";
 
 export function ContactSection() {
   return (
@@ -17,9 +16,7 @@ export function ContactSection() {
           </p>
         </FadeInUp>
         <ScaleIn delay={0.2}>
-          <div className="bg-gray-50 rounded-2xl p-8 md:p-12 shadow-lg">
-            <ContactForm />
-          </div>
+          <div className="bg-gray-50 rounded-2xl p-8 md:p-12 shadow-lg"></div>
         </ScaleIn>
       </div>
     </section>
