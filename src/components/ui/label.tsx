@@ -1,7 +1,7 @@
 import * as LabelPrimitive from "@radix-ui/react-label";
 import { cva, type VariantProps } from "class-variance-authority";
 import { forwardRef } from "react";
-import { cn } from "@/lib/utils";
+import { cn } from "../../lib/utils";
 
 const labelVariants = cva("block text-sm font-medium text-gray-700 mb-2");
 
