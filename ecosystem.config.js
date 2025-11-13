@@ -3,8 +3,8 @@ console.log("adding envs: ", { ...process.env });
 module.exports = {
   apps: [
     {
-      name: "atend-web",
-      cwd: "./atend-web",
+      name: "atend-website",
+      cwd: "./atend-website",
       script: "npm",
       args: "start",
       exec_mode: "fork",
