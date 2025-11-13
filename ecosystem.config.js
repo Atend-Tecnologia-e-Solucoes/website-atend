@@ -5,11 +5,8 @@ module.exports = {
     {
       name: "atend-website",
       cwd: "./atend-website",
-      script: "start",
-      interpreter: "bash",
-      // Opção 2: Usar npm diretamente (descomente se preferir)
-      // script: "npm",
-      // args: "run start:pm2",
+      script: "npm",
+      args: "start",
       exec_mode: "fork",
       watch: false,
       env: { PORT: 3000, ...process.env },
