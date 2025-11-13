@@ -1,7 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // Garantir que imagens estáticas sejam servidas corretamente
+  images: {
+    // Permitir imagens locais da pasta public
+    unoptimized: false,
+    // Se estiver usando domínios externos, adicione aqui:
+    // remotePatterns: [],
+  },
 };
 
 export default nextConfig;
