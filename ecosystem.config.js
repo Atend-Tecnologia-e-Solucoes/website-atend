@@ -6,7 +6,7 @@ module.exports = {
       name: "atend-website",
       cwd: "./atend-website",
       script: "npm",
-      args: "start",
+      args: "run start:pm2",
       exec_mode: "fork",
       watch: false,
       env: { PORT: 3000, ...process.env },
