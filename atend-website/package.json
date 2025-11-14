@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "npm run dev",
+    "build": "npm run build",
+    "start": "npm run start",
     "start:pm2": "npm i && npm run build && npm start",
-    "lint": "next lint"
+    "lint": "npm run lint"
   },
   "dependencies": {
     "@radix-ui/react-label": "^2.1.8",
