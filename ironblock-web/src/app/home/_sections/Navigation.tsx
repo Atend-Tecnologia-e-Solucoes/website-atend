@@ -34,7 +34,9 @@ export function Navigation() {
               Serviços
             </Link> */}
             <Link
-              href="#whatsapp"
+              href="https://wa.me/5511961282600"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-300 hover:text-primary-500 transition"
             >
               Entre em Contato
