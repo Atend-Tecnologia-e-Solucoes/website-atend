@@ -297,3 +297,57 @@
 2025-11-13 21:50:10 -03:00: }
 2025-11-13 21:51:17 -03:00:  ⨯ The requested resource isn't a valid image for /images/atend-logo.png received null
 2025-11-13 21:53:11 -03:00:  ⨯ The requested resource isn't a valid image for /images/atend-logo.png received null
+2025-11-14 20:46:26 -03:00: npm error Missing script: "start:pm2"
+2025-11-14 20:46:26 -03:00: npm error
+2025-11-14 20:46:26 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:26 -03:00: npm error   npm run
+2025-11-14 20:46:26 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_26_048Z-debug-0.log
+2025-11-14 20:46:26 -03:00: npm error Missing script: "start:pm2"
+2025-11-14 20:46:26 -03:00: npm error
+2025-11-14 20:46:26 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:26 -03:00: npm error   npm run
+2025-11-14 20:46:26 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_26_190Z-debug-0.log
+2025-11-14 20:46:56 -03:00: npm error Missing script: "pm2-start"
+2025-11-14 20:46:56 -03:00: npm error
+2025-11-14 20:46:56 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:56 -03:00: npm error   npm run
+2025-11-14 20:46:56 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_56_440Z-debug-0.log
+2025-11-14 20:46:56 -03:00: npm error Missing script: "pm2-start"
+2025-11-14 20:46:56 -03:00: npm error
+2025-11-14 20:46:56 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:56 -03:00: npm error   npm run
+2025-11-14 20:46:56 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_56_638Z-debug-0.log
+2025-11-14 21:08:02 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:08:02 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:48 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:48 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:48 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:09:49 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:36 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:36 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001
+2025-11-14 21:10:37 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/ironblock-web/3001

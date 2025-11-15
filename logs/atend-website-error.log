@@ -341,3 +341,417 @@
 2025-11-13 19:29:16 -03:00:  ⨯ The requested resource isn't a valid image for /public/images/dashboard.png received null
 2025-11-13 19:29:19 -03:00:  ⨯ The requested resource isn't a valid image for /public/images/dashboard.png received null
 2025-11-13 19:29:22 -03:00:  ⨯ The requested resource isn't a valid image for /public/images/dashboard.png received null
+2025-11-14 20:46:26 -03:00: npm error Missing script: "start:pm2"
+2025-11-14 20:46:26 -03:00: npm error
+2025-11-14 20:46:26 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:26 -03:00: npm error   npm run
+2025-11-14 20:46:26 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_26_057Z-debug-0.log
+2025-11-14 20:46:26 -03:00: npm error Missing script: "start:pm2"
+2025-11-14 20:46:26 -03:00: npm error
+2025-11-14 20:46:26 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:26 -03:00: npm error   npm run
+2025-11-14 20:46:26 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_26_174Z-debug-0.log
+2025-11-14 20:46:56 -03:00: npm error Missing script: "pm2-start"
+2025-11-14 20:46:56 -03:00: npm error
+2025-11-14 20:46:56 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:56 -03:00: npm error   npm run
+2025-11-14 20:46:56 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_56_458Z-debug-0.log
+2025-11-14 20:46:56 -03:00: npm error Missing script: "pm2-start"
+2025-11-14 20:46:56 -03:00: npm error
+2025-11-14 20:46:56 -03:00: npm error To see a list of scripts, run:
+2025-11-14 20:46:56 -03:00: npm error   npm run
+2025-11-14 20:46:56 -03:00: npm error A complete log of this run can be found in: /home/biel/.npm/_logs/2025-11-14T23_46_56_648Z-debug-0.log
+2025-11-14 21:06:47 -03:00:  ⨯ Failed to start server
+2025-11-14 21:06:47 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:06:47 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:06:47 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:06:47 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:06:47 -03:00:   errno: -98,
+2025-11-14 21:06:47 -03:00:   syscall: 'listen',
+2025-11-14 21:06:47 -03:00:   address: '::',
+2025-11-14 21:06:47 -03:00:   port: 3000
+2025-11-14 21:06:47 -03:00: }
+2025-11-14 21:06:48 -03:00:  ⨯ Failed to start server
+2025-11-14 21:06:48 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:06:48 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:06:48 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:06:48 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:06:48 -03:00:   errno: -98,
+2025-11-14 21:06:48 -03:00:   syscall: 'listen',
+2025-11-14 21:06:48 -03:00:   address: '::',
+2025-11-14 21:06:48 -03:00:   port: 3000
+2025-11-14 21:06:48 -03:00: }
+2025-11-14 21:07:24 -03:00:  ⨯ Failed to start server
+2025-11-14 21:07:24 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:07:24 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:07:24 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:07:24 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:07:24 -03:00:   errno: -98,
+2025-11-14 21:07:24 -03:00:   syscall: 'listen',
+2025-11-14 21:07:24 -03:00:   address: '::',
+2025-11-14 21:07:24 -03:00:   port: 3000
+2025-11-14 21:07:24 -03:00: }
+2025-11-14 21:07:24 -03:00:  ⨯ Failed to start server
+2025-11-14 21:07:24 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:07:24 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:07:24 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:07:24 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:07:24 -03:00:   errno: -98,
+2025-11-14 21:07:24 -03:00:   syscall: 'listen',
+2025-11-14 21:07:24 -03:00:   address: '::',
+2025-11-14 21:07:24 -03:00:   port: 3000
+2025-11-14 21:07:24 -03:00: }
+2025-11-14 21:08:02 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:08:02 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:44 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:45 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:46 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:47 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:48 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:48 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:09:49 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:32 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:33 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:34 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:35 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:36 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:36 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:10:37 -03:00: Invalid project directory provided, no such directory: /home/biel/Documentos/workspace/atend-web/atend-website/3000
+2025-11-14 21:12:41 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:41 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:41 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:41 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:41 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:41 -03:00:   errno: -98,
+2025-11-14 21:12:41 -03:00:   syscall: 'listen',
+2025-11-14 21:12:41 -03:00:   address: '::',
+2025-11-14 21:12:41 -03:00:   port: 3000
+2025-11-14 21:12:41 -03:00: }
+2025-11-14 21:12:41 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:41 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:41 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:41 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:41 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:41 -03:00:   errno: -98,
+2025-11-14 21:12:41 -03:00:   syscall: 'listen',
+2025-11-14 21:12:41 -03:00:   address: '::',
+2025-11-14 21:12:41 -03:00:   port: 3000
+2025-11-14 21:12:41 -03:00: }
+2025-11-14 21:12:41 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:41 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:41 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:41 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:41 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:41 -03:00:   errno: -98,
+2025-11-14 21:12:41 -03:00:   syscall: 'listen',
+2025-11-14 21:12:41 -03:00:   address: '::',
+2025-11-14 21:12:41 -03:00:   port: 3000
+2025-11-14 21:12:41 -03:00: }
+2025-11-14 21:12:42 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:42 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:42 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:42 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:42 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:42 -03:00:   errno: -98,
+2025-11-14 21:12:42 -03:00:   syscall: 'listen',
+2025-11-14 21:12:42 -03:00:   address: '::',
+2025-11-14 21:12:42 -03:00:   port: 3000
+2025-11-14 21:12:42 -03:00: }
+2025-11-14 21:12:42 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:42 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:42 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:42 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:42 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:42 -03:00:   errno: -98,
+2025-11-14 21:12:42 -03:00:   syscall: 'listen',
+2025-11-14 21:12:42 -03:00:   address: '::',
+2025-11-14 21:12:42 -03:00:   port: 3000
+2025-11-14 21:12:42 -03:00: }
+2025-11-14 21:12:42 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:42 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:42 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:42 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:42 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:42 -03:00:   errno: -98,
+2025-11-14 21:12:42 -03:00:   syscall: 'listen',
+2025-11-14 21:12:42 -03:00:   address: '::',
+2025-11-14 21:12:42 -03:00:   port: 3000
+2025-11-14 21:12:42 -03:00: }
+2025-11-14 21:12:42 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:42 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:42 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:42 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:42 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:42 -03:00:   errno: -98,
+2025-11-14 21:12:42 -03:00:   syscall: 'listen',
+2025-11-14 21:12:42 -03:00:   address: '::',
+2025-11-14 21:12:42 -03:00:   port: 3000
+2025-11-14 21:12:42 -03:00: }
+2025-11-14 21:12:43 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:43 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:43 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:43 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:43 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:43 -03:00:   errno: -98,
+2025-11-14 21:12:43 -03:00:   syscall: 'listen',
+2025-11-14 21:12:43 -03:00:   address: '::',
+2025-11-14 21:12:43 -03:00:   port: 3000
+2025-11-14 21:12:43 -03:00: }
+2025-11-14 21:12:43 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:43 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:43 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:43 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:43 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:43 -03:00:   errno: -98,
+2025-11-14 21:12:43 -03:00:   syscall: 'listen',
+2025-11-14 21:12:43 -03:00:   address: '::',
+2025-11-14 21:12:43 -03:00:   port: 3000
+2025-11-14 21:12:43 -03:00: }
+2025-11-14 21:12:43 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:43 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:43 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:43 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:43 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:43 -03:00:   errno: -98,
+2025-11-14 21:12:43 -03:00:   syscall: 'listen',
+2025-11-14 21:12:43 -03:00:   address: '::',
+2025-11-14 21:12:43 -03:00:   port: 3000
+2025-11-14 21:12:43 -03:00: }
+2025-11-14 21:12:44 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:44 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:44 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:44 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:44 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:44 -03:00:   errno: -98,
+2025-11-14 21:12:44 -03:00:   syscall: 'listen',
+2025-11-14 21:12:44 -03:00:   address: '::',
+2025-11-14 21:12:44 -03:00:   port: 3000
+2025-11-14 21:12:44 -03:00: }
+2025-11-14 21:12:44 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:44 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:44 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:44 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:44 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:44 -03:00:   errno: -98,
+2025-11-14 21:12:44 -03:00:   syscall: 'listen',
+2025-11-14 21:12:44 -03:00:   address: '::',
+2025-11-14 21:12:44 -03:00:   port: 3000
+2025-11-14 21:12:44 -03:00: }
+2025-11-14 21:12:44 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:44 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:44 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:44 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:44 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:44 -03:00:   errno: -98,
+2025-11-14 21:12:44 -03:00:   syscall: 'listen',
+2025-11-14 21:12:44 -03:00:   address: '::',
+2025-11-14 21:12:44 -03:00:   port: 3000
+2025-11-14 21:12:44 -03:00: }
+2025-11-14 21:12:44 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:44 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:44 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:44 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:44 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:44 -03:00:   errno: -98,
+2025-11-14 21:12:44 -03:00:   syscall: 'listen',
+2025-11-14 21:12:44 -03:00:   address: '::',
+2025-11-14 21:12:44 -03:00:   port: 3000
+2025-11-14 21:12:44 -03:00: }
+2025-11-14 21:12:45 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:45 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:45 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:45 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:45 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:45 -03:00:   errno: -98,
+2025-11-14 21:12:45 -03:00:   syscall: 'listen',
+2025-11-14 21:12:45 -03:00:   address: '::',
+2025-11-14 21:12:45 -03:00:   port: 3000
+2025-11-14 21:12:45 -03:00: }
+2025-11-14 21:12:45 -03:00:  ⨯ Failed to start server
+2025-11-14 21:12:45 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:12:45 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:12:45 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:12:45 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:12:45 -03:00:   errno: -98,
+2025-11-14 21:12:45 -03:00:   syscall: 'listen',
+2025-11-14 21:12:45 -03:00:   address: '::',
+2025-11-14 21:12:45 -03:00:   port: 3000
+2025-11-14 21:12:45 -03:00: }
+2025-11-14 21:14:51 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:51 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:51 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:51 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:51 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:51 -03:00:   errno: -98,
+2025-11-14 21:14:51 -03:00:   syscall: 'listen',
+2025-11-14 21:14:51 -03:00:   address: '::',
+2025-11-14 21:14:51 -03:00:   port: 3000
+2025-11-14 21:14:51 -03:00: }
+2025-11-14 21:14:52 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:52 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:52 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:52 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:52 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:52 -03:00:   errno: -98,
+2025-11-14 21:14:52 -03:00:   syscall: 'listen',
+2025-11-14 21:14:52 -03:00:   address: '::',
+2025-11-14 21:14:52 -03:00:   port: 3000
+2025-11-14 21:14:52 -03:00: }
+2025-11-14 21:14:52 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:52 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:52 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:52 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:52 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:52 -03:00:   errno: -98,
+2025-11-14 21:14:52 -03:00:   syscall: 'listen',
+2025-11-14 21:14:52 -03:00:   address: '::',
+2025-11-14 21:14:52 -03:00:   port: 3000
+2025-11-14 21:14:52 -03:00: }
+2025-11-14 21:14:52 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:52 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:52 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:52 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:52 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:52 -03:00:   errno: -98,
+2025-11-14 21:14:52 -03:00:   syscall: 'listen',
+2025-11-14 21:14:52 -03:00:   address: '::',
+2025-11-14 21:14:52 -03:00:   port: 3000
+2025-11-14 21:14:52 -03:00: }
+2025-11-14 21:14:53 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:53 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:53 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:53 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:53 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:53 -03:00:   errno: -98,
+2025-11-14 21:14:53 -03:00:   syscall: 'listen',
+2025-11-14 21:14:53 -03:00:   address: '::',
+2025-11-14 21:14:53 -03:00:   port: 3000
+2025-11-14 21:14:53 -03:00: }
+2025-11-14 21:14:53 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:53 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:53 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:53 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:53 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:53 -03:00:   errno: -98,
+2025-11-14 21:14:53 -03:00:   syscall: 'listen',
+2025-11-14 21:14:53 -03:00:   address: '::',
+2025-11-14 21:14:53 -03:00:   port: 3000
+2025-11-14 21:14:53 -03:00: }
+2025-11-14 21:14:53 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:53 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:53 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:53 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:53 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:53 -03:00:   errno: -98,
+2025-11-14 21:14:53 -03:00:   syscall: 'listen',
+2025-11-14 21:14:53 -03:00:   address: '::',
+2025-11-14 21:14:53 -03:00:   port: 3000
+2025-11-14 21:14:53 -03:00: }
+2025-11-14 21:14:53 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:53 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:53 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:53 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:53 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:53 -03:00:   errno: -98,
+2025-11-14 21:14:53 -03:00:   syscall: 'listen',
+2025-11-14 21:14:53 -03:00:   address: '::',
+2025-11-14 21:14:53 -03:00:   port: 3000
+2025-11-14 21:14:53 -03:00: }
+2025-11-14 21:14:54 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:54 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:54 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:54 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:54 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:54 -03:00:   errno: -98,
+2025-11-14 21:14:54 -03:00:   syscall: 'listen',
+2025-11-14 21:14:54 -03:00:   address: '::',
+2025-11-14 21:14:54 -03:00:   port: 3000
+2025-11-14 21:14:54 -03:00: }
+2025-11-14 21:14:54 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:54 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:54 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:54 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:54 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:54 -03:00:   errno: -98,
+2025-11-14 21:14:54 -03:00:   syscall: 'listen',
+2025-11-14 21:14:54 -03:00:   address: '::',
+2025-11-14 21:14:54 -03:00:   port: 3000
+2025-11-14 21:14:54 -03:00: }
+2025-11-14 21:14:54 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:54 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:54 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:54 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:54 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:54 -03:00:   errno: -98,
+2025-11-14 21:14:54 -03:00:   syscall: 'listen',
+2025-11-14 21:14:54 -03:00:   address: '::',
+2025-11-14 21:14:54 -03:00:   port: 3000
+2025-11-14 21:14:54 -03:00: }
+2025-11-14 21:14:54 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:54 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:54 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:54 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:54 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:54 -03:00:   errno: -98,
+2025-11-14 21:14:54 -03:00:   syscall: 'listen',
+2025-11-14 21:14:54 -03:00:   address: '::',
+2025-11-14 21:14:54 -03:00:   port: 3000
+2025-11-14 21:14:54 -03:00: }
+2025-11-14 21:14:55 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:55 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:55 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:55 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:55 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:55 -03:00:   errno: -98,
+2025-11-14 21:14:55 -03:00:   syscall: 'listen',
+2025-11-14 21:14:55 -03:00:   address: '::',
+2025-11-14 21:14:55 -03:00:   port: 3000
+2025-11-14 21:14:55 -03:00: }
+2025-11-14 21:14:55 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:55 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:55 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:55 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:55 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:55 -03:00:   errno: -98,
+2025-11-14 21:14:55 -03:00:   syscall: 'listen',
+2025-11-14 21:14:55 -03:00:   address: '::',
+2025-11-14 21:14:55 -03:00:   port: 3000
+2025-11-14 21:14:55 -03:00: }
+2025-11-14 21:14:55 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:55 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:55 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:55 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:55 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:55 -03:00:   errno: -98,
+2025-11-14 21:14:55 -03:00:   syscall: 'listen',
+2025-11-14 21:14:55 -03:00:   address: '::',
+2025-11-14 21:14:55 -03:00:   port: 3000
+2025-11-14 21:14:55 -03:00: }
+2025-11-14 21:14:56 -03:00:  ⨯ Failed to start server
+2025-11-14 21:14:56 -03:00: Error: listen EADDRINUSE: address already in use :::3000
+2025-11-14 21:14:56 -03:00:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+2025-11-14 21:14:56 -03:00:     at new Promise (<anonymous>) {
+2025-11-14 21:14:56 -03:00:   code: 'EADDRINUSE',
+2025-11-14 21:14:56 -03:00:   errno: -98,
+2025-11-14 21:14:56 -03:00:   syscall: 'listen',
+2025-11-14 21:14:56 -03:00:   address: '::',
+2025-11-14 21:14:56 -03:00:   port: 3000
+2025-11-14 21:14:56 -03:00: }
